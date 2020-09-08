@@ -1,0 +1,609 @@
+fileFormatVersion: 2
+guid: 39dd70da688b48940853146eb198f23c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: boots
+    100002: boots1
+    100004: face_main
+    100006: group1
+    100008: group1 1
+    100010: group2
+    100012: group3
+    100014: group4
+    100016: group5
+    100018: ha
+    100020: ha_ani
+    100022: hair1
+    100024: head
+    100026: head_main
+    100028: jacket
+    100030: jacket1
+    100032: kasima_1
+    100034: kuti
+    100036: L_arm
+    100038: L_arm2
+    100040: L_arm3
+    100042: L_eye_g
+    100044: matuge
+    100046: matuge1
+    100048: matuge_ani
+    100050: mayu_ani
+    100052: mayuge1
+    100054: pCylinder48
+    100056: pCylinder49
+    100058: pCylinder50
+    100060: pCylinder51
+    100062: pCylinder54
+    100064: pCylinder55
+    100066: pCylinder56
+    100068: pCylinder56 1
+    100070: pCylinder58
+    100072: polySurface29
+    100074: polySurface31
+    100076: pPipe1
+    100078: pPlane121
+    100080: pPlane122
+    100082: pPlane122 1
+    100084: pPlane123
+    100086: pPlane123 1
+    100088: pPlane124
+    100090: pPlane124 1
+    100092: pPlane127
+    100094: pPlane128
+    100096: pPlane131
+    100098: pPlane131 1
+    100100: pPlane134
+    100102: pPlane134 1
+    100104: pPlane140
+    100106: pPlane140 1
+    100108: pPlane147
+    100110: pPlane148
+    100112: pPlane149
+    100114: pPlane149 1
+    100116: pPlane152
+    100118: pPlane153
+    100120: pPlane154
+    100122: pPlane155
+    100124: pPlane156
+    100126: pPlane157
+    100128: pPlane158
+    100130: pPlane158 1
+    100132: pPlane159
+    100134: pPlane162
+    100136: pPlane163
+    100138: pPlane164
+    100140: pPlane165
+    100142: pPlane165 1
+    100144: pPlane166
+    100146: pPlane167
+    100148: pSphere2
+    100150: pSphere3
+    100152: R_eye_g
+    100154: rip
+    100156: Robot_Head
+    100158: Robot_Head_End
+    100160: Robot_Hips
+    100162: Robot_LeftArm
+    100164: Robot_LeftFoot
+    100166: Robot_LeftForeArm
+    100168: Robot_LeftHand
+    100170: Robot_LeftHandIndex1
+    100172: Robot_LeftHandIndex2
+    100174: Robot_LeftHandIndex3
+    100176: Robot_LeftHandIndex4
+    100178: Robot_LeftHandMiddle1
+    100180: Robot_LeftHandMiddle2
+    100182: Robot_LeftHandMiddle3
+    100184: Robot_LeftHandMiddle4
+    100186: Robot_LeftHandPinky1
+    100188: Robot_LeftHandPinky2
+    100190: Robot_LeftHandPinky3
+    100192: Robot_LeftHandPinky4
+    100194: Robot_LeftHandRing1
+    100196: Robot_LeftHandRing2
+    100198: Robot_LeftHandRing3
+    100200: Robot_LeftHandRing4
+    100202: Robot_LeftHandThumb1
+    100204: Robot_LeftHandThumb2
+    100206: Robot_LeftHandThumb3
+    100208: Robot_LeftHandThumb4
+    100210: Robot_LeftInHandIndex
+    100212: Robot_LeftInHandMiddle
+    100214: Robot_LeftInHandPinky
+    100216: Robot_LeftInHandRing
+    100218: Robot_LeftLeg
+    100220: Robot_LeftShoulder
+    100222: Robot_LeftToeBase
+    100224: Robot_LeftUpLeg
+    100226: Robot_Neck
+    100228: Robot_Reference
+    100230: Robot_References
+    100232: Robot_RightArm
+    100234: Robot_RightFoot
+    100236: Robot_RightForeArm
+    100238: Robot_RightHand
+    100240: Robot_RightHandIndex1
+    100242: Robot_RightHandIndex2
+    100244: Robot_RightHandIndex3
+    100246: Robot_RightHandIndex4
+    100248: Robot_RightHandMiddle1
+    100250: Robot_RightHandMiddle2
+    100252: Robot_RightHandMiddle3
+    100254: Robot_RightHandMiddle4
+    100256: Robot_RightHandPinky1
+    100258: Robot_RightHandPinky2
+    100260: Robot_RightHandPinky3
+    100262: Robot_RightHandPinky4
+    100264: Robot_RightHandRing1
+    100266: Robot_RightHandRing2
+    100268: Robot_RightHandRing3
+    100270: Robot_RightHandRing4
+    100272: Robot_RightHandThumb1
+    100274: Robot_RightHandThumb2
+    100276: Robot_RightHandThumb3
+    100278: Robot_RightHandThumb4
+    100280: Robot_RightInHandIndex
+    100282: Robot_RightInHandMiddle
+    100284: Robot_RightInHandPinky
+    100286: Robot_RightInHandRing
+    100288: Robot_RightLeg
+    100290: Robot_RightShoulder
+    100292: Robot_RightToeBase
+    100294: Robot_RightUpLeg
+    100296: Robot_Spine
+    100298: Robot_Spine1
+    100300: Robot_Spine2
+    100302: Robot_Spine3
+    100304: sakotu
+    100306: sita
+    100308: siwa
+    100310: //RootNode
+    100312: syatu1
+    100314: trousers
+    100316: trousers 1
+    400000: boots
+    400002: boots1
+    400004: face_main
+    400006: group1
+    400008: group1 1
+    400010: group2
+    400012: group3
+    400014: group4
+    400016: group5
+    400018: ha
+    400020: ha_ani
+    400022: hair1
+    400024: head
+    400026: head_main
+    400028: jacket
+    400030: jacket1
+    400032: kasima_1
+    400034: kuti
+    400036: L_arm
+    400038: L_arm2
+    400040: L_arm3
+    400042: L_eye_g
+    400044: matuge
+    400046: matuge1
+    400048: matuge_ani
+    400050: mayu_ani
+    400052: mayuge1
+    400054: pCylinder48
+    400056: pCylinder49
+    400058: pCylinder50
+    400060: pCylinder51
+    400062: pCylinder54
+    400064: pCylinder55
+    400066: pCylinder56
+    400068: pCylinder56 1
+    400070: pCylinder58
+    400072: polySurface29
+    400074: polySurface31
+    400076: pPipe1
+    400078: pPlane121
+    400080: pPlane122
+    400082: pPlane122 1
+    400084: pPlane123
+    400086: pPlane123 1
+    400088: pPlane124
+    400090: pPlane124 1
+    400092: pPlane127
+    400094: pPlane128
+    400096: pPlane131
+    400098: pPlane131 1
+    400100: pPlane134
+    400102: pPlane134 1
+    400104: pPlane140
+    400106: pPlane140 1
+    400108: pPlane147
+    400110: pPlane148
+    400112: pPlane149
+    400114: pPlane149 1
+    400116: pPlane152
+    400118: pPlane153
+    400120: pPlane154
+    400122: pPlane155
+    400124: pPlane156
+    400126: pPlane157
+    400128: pPlane158
+    400130: pPlane158 1
+    400132: pPlane159
+    400134: pPlane162
+    400136: pPlane163
+    400138: pPlane164
+    400140: pPlane165
+    400142: pPlane165 1
+    400144: pPlane166
+    400146: pPlane167
+    400148: pSphere2
+    400150: pSphere3
+    400152: R_eye_g
+    400154: rip
+    400156: Robot_Head
+    400158: Robot_Head_End
+    400160: Robot_Hips
+    400162: Robot_LeftArm
+    400164: Robot_LeftFoot
+    400166: Robot_LeftForeArm
+    400168: Robot_LeftHand
+    400170: Robot_LeftHandIndex1
+    400172: Robot_LeftHandIndex2
+    400174: Robot_LeftHandIndex3
+    400176: Robot_LeftHandIndex4
+    400178: Robot_LeftHandMiddle1
+    400180: Robot_LeftHandMiddle2
+    400182: Robot_LeftHandMiddle3
+    400184: Robot_LeftHandMiddle4
+    400186: Robot_LeftHandPinky1
+    400188: Robot_LeftHandPinky2
+    400190: Robot_LeftHandPinky3
+    400192: Robot_LeftHandPinky4
+    400194: Robot_LeftHandRing1
+    400196: Robot_LeftHandRing2
+    400198: Robot_LeftHandRing3
+    400200: Robot_LeftHandRing4
+    400202: Robot_LeftHandThumb1
+    400204: Robot_LeftHandThumb2
+    400206: Robot_LeftHandThumb3
+    400208: Robot_LeftHandThumb4
+    400210: Robot_LeftInHandIndex
+    400212: Robot_LeftInHandMiddle
+    400214: Robot_LeftInHandPinky
+    400216: Robot_LeftInHandRing
+    400218: Robot_LeftLeg
+    400220: Robot_LeftShoulder
+    400222: Robot_LeftToeBase
+    400224: Robot_LeftUpLeg
+    400226: Robot_Neck
+    400228: Robot_Reference
+    400230: Robot_References
+    400232: Robot_RightArm
+    400234: Robot_RightFoot
+    400236: Robot_RightForeArm
+    400238: Robot_RightHand
+    400240: Robot_RightHandIndex1
+    400242: Robot_RightHandIndex2
+    400244: Robot_RightHandIndex3
+    400246: Robot_RightHandIndex4
+    400248: Robot_RightHandMiddle1
+    400250: Robot_RightHandMiddle2
+    400252: Robot_RightHandMiddle3
+    400254: Robot_RightHandMiddle4
+    400256: Robot_RightHandPinky1
+    400258: Robot_RightHandPinky2
+    400260: Robot_RightHandPinky3
+    400262: Robot_RightHandPinky4
+    400264: Robot_RightHandRing1
+    400266: Robot_RightHandRing2
+    400268: Robot_RightHandRing3
+    400270: Robot_RightHandRing4
+    400272: Robot_RightHandThumb1
+    400274: Robot_RightHandThumb2
+    400276: Robot_RightHandThumb3
+    400278: Robot_RightHandThumb4
+    400280: Robot_RightInHandIndex
+    400282: Robot_RightInHandMiddle
+    400284: Robot_RightInHandPinky
+    400286: Robot_RightInHandRing
+    400288: Robot_RightLeg
+    400290: Robot_RightShoulder
+    400292: Robot_RightToeBase
+    400294: Robot_RightUpLeg
+    400296: Robot_Spine
+    400298: Robot_Spine1
+    400300: Robot_Spine2
+    400302: Robot_Spine3
+    400304: sakotu
+    400306: sita
+    400308: siwa
+    400310: //RootNode
+    400312: syatu1
+    400314: trousers
+    400316: trousers 1
+    2100000: lambert8
+    2100002: lambert18
+    2100004: lambert6
+    2100006: lambert1
+    2100008: lambert17
+    2100010: lambert7
+    2100012: lambert29
+    2100014: lambert11
+    2100016: lambert13
+    2100018: lambert26
+    2100020: lambert12
+    2100022: lambert14
+    2100024: lambert25
+    2100026: lambert23
+    2100028: lambert9
+    2100030: lambert27
+    2100032: lambert16
+    2100034: lambert21
+    2100036: lambert19
+    2100038: lambert5
+    2100040: lambert28
+    2300000: ha_ani
+    2300002: kuti
+    2300004: pCylinder48
+    2300006: pCylinder49
+    2300008: pCylinder50
+    2300010: pCylinder51
+    2300012: pCylinder54
+    2300014: pCylinder55
+    2300016: pCylinder58
+    2300018: polySurface29
+    2300020: polySurface31
+    2300022: pPipe1
+    2300024: pPlane121
+    2300026: pPlane122
+    2300028: pPlane122 1
+    2300030: pPlane123
+    2300032: pPlane123 1
+    2300034: pPlane124
+    2300036: pPlane124 1
+    2300038: pPlane127
+    2300040: pPlane128
+    2300042: pPlane131
+    2300044: pPlane131 1
+    2300046: pPlane134
+    2300048: pPlane134 1
+    2300050: pPlane140
+    2300052: pPlane140 1
+    2300054: pPlane147
+    2300056: pPlane148
+    2300058: pPlane149
+    2300060: pPlane149 1
+    2300062: pPlane152
+    2300064: pPlane153
+    2300066: pPlane154
+    2300068: pPlane155
+    2300070: pPlane156
+    2300072: pPlane157
+    2300074: pPlane158
+    2300076: pPlane158 1
+    2300078: pPlane159
+    2300080: pPlane162
+    2300082: pPlane163
+    2300084: pPlane164
+    2300086: pPlane165
+    2300088: pPlane165 1
+    2300090: pPlane166
+    2300092: pPlane167
+    2300094: pSphere2
+    2300096: pSphere3
+    2300098: sakotu
+    2300100: sita
+    2300102: siwa
+    3300000: ha_ani
+    3300002: kuti
+    3300004: pCylinder48
+    3300006: pCylinder49
+    3300008: pCylinder50
+    3300010: pCylinder51
+    3300012: pCylinder54
+    3300014: pCylinder55
+    3300016: pCylinder58
+    3300018: polySurface29
+    3300020: polySurface31
+    3300022: pPipe1
+    3300024: pPlane121
+    3300026: pPlane122
+    3300028: pPlane122 1
+    3300030: pPlane123
+    3300032: pPlane123 1
+    3300034: pPlane124
+    3300036: pPlane124 1
+    3300038: pPlane127
+    3300040: pPlane128
+    3300042: pPlane131
+    3300044: pPlane131 1
+    3300046: pPlane134
+    3300048: pPlane134 1
+    3300050: pPlane140
+    3300052: pPlane140 1
+    3300054: pPlane147
+    3300056: pPlane148
+    3300058: pPlane149
+    3300060: pPlane149 1
+    3300062: pPlane152
+    3300064: pPlane153
+    3300066: pPlane154
+    3300068: pPlane155
+    3300070: pPlane156
+    3300072: pPlane157
+    3300074: pPlane158
+    3300076: pPlane158 1
+    3300078: pPlane159
+    3300080: pPlane162
+    3300082: pPlane163
+    3300084: pPlane164
+    3300086: pPlane165
+    3300088: pPlane165 1
+    3300090: pPlane166
+    3300092: pPlane167
+    3300094: pSphere2
+    3300096: pSphere3
+    3300098: sakotu
+    3300100: sita
+    3300102: siwa
+    4300000: L_arm2
+    4300002: L_arm3
+    4300004: trousers
+    4300006: pCylinder56
+    4300008: ha_ani
+    4300010: jacket1
+    4300012: face_main
+    4300014: pCylinder56
+    4300016: sita
+    4300018: pCylinder49
+    4300020: pCylinder54
+    4300022: pCylinder48
+    4300024: polySurface31
+    4300026: pCylinder58
+    4300028: pCylinder51
+    4300030: polySurface29
+    4300032: pCylinder50
+    4300034: pCylinder55
+    4300036: mayuge1
+    4300038: matuge1
+    4300040: siwa
+    4300042: ha
+    4300044: kuti
+    4300046: pPlane147
+    4300048: pPlane156
+    4300050: pPlane155
+    4300052: pPlane127
+    4300054: pPlane128
+    4300056: pPlane148
+    4300058: pPlane152
+    4300060: pPlane154
+    4300062: pPlane157
+    4300064: pPlane159
+    4300066: pPlane121
+    4300068: pPlane153
+    4300070: pPlane162
+    4300072: pPlane163
+    4300074: pPlane164
+    4300076: pPlane134
+    4300078: pPlane122
+    4300080: pPlane149
+    4300082: pPlane165
+    4300084: pPlane124
+    4300086: pPlane158
+    4300088: pPlane123
+    4300090: pPlane140
+    4300092: pPlane131
+    4300094: pPlane134
+    4300096: pPlane122
+    4300098: pPlane149
+    4300100: pPlane165
+    4300102: pPlane124
+    4300104: pPlane158
+    4300106: pPlane123
+    4300108: pPlane140
+    4300110: pPlane131
+    4300112: pPlane166
+    4300114: pPlane167
+    4300116: pSphere2
+    4300118: pPipe1
+    4300120: pSphere3
+    4300122: sakotu
+    4300124: syatu1
+    9500000: //RootNode
+    13700000: face_main
+    13700002: ha
+    13700004: jacket1
+    13700006: L_arm2
+    13700008: L_arm3
+    13700010: matuge1
+    13700012: mayuge1
+    13700014: pCylinder56
+    13700016: pCylinder56 1
+    13700018: syatu1
+    13700020: trousers 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
